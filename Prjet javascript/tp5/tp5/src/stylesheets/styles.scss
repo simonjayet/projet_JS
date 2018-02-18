@@ -1,0 +1,18 @@
+@import "~leaflet/dist/leaflet.css";
+@import "~knacss/sass/knacss.scss";
+$midnight-blue : #F000FF;
+
+body {
+  background-color: $midnight-blue;
+}
+
+#mymapid {
+margin-top:80px;
+witdh: 900px;
+height: 800px;
+}
+
+h1{
+ color: white; 
+
+}
